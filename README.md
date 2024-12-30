@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github!;I'm+Leo.;I'm+a+Software+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github!;I'm+Leo.;I'm+a+developer.)](https://git.io/typing-svg)
 ##  github stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeoRH123&show_icons=true&hide_border=true&theme=transparent)
 ## My Tech Stack and Tools
